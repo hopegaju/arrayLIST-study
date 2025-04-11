@@ -13,5 +13,8 @@ public class Main {
         System.out.println(friendArray[4]);
         System.out.println(friends1.get(3));
         // the size of array and array list
+        System.out.println(friendArray.length);
+        System.out.println(friends1.size());
+
     }
 }
